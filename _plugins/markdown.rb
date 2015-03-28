@@ -20,4 +20,4 @@ module Jekyll
     end
   end
 end
-Liquid::Template.register_tag('markdown', Jekyll::MarkdownTag)
+Liquid::Template.register_tag('markdownify', Jekyll::MarkdownTag)
