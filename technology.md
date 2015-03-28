@@ -8,4 +8,4 @@ I will be using Omnigraffle to create diagrams and wireframes. Adobe Illustrator
 
 For project management, I will use Trello. I will test the game as much as I can using Google Forms.
 
-In terms of building the game, I will use Phaser and export it to Android and iOS using Crosswalk or PhoneGap. All of my code will be version tracked via git and saved on GitHub.
+In terms of building the game, I will use Phaser and export it to Android and iOS using [Crosswalk](https://crosswalk-project.org/documentation/getting_started.html) or [PhoneGap](http://phonegap.com/). All of my code will be version tracked via git and saved on GitHub.

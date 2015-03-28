@@ -5,13 +5,15 @@ title: Process
 {% markdown page-process.md %}
 
 <h2>Posts:</h2>
-{% for post in site.categories["process"] %}
- 
-  <li>
-    <a href="{{ post.url }}">
-      <h3>{{ post.title }}</h3>
-    </a>
-	{{post.excerpt}}
-  </li>
- 
-{% endfor %}
+<ul class="post-list">
+	{% for post in site.categories["process"] %}
+	 
+	  <li>
+	    <a href="{{ post.url }}">
+	      <h3>{{ post.title }}</h3>
+	    </a>
+		{{post.excerpt}}
+	  </li>
+	 
+	{% endfor %}
+</ul>

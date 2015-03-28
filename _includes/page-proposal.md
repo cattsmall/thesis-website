@@ -2,7 +2,7 @@
 
 ![](/assets/img/proposal/mockup1.png)
 
-#Statement
+##Statement
 
 Sexual activity has many benefits. Despite this fact, many people in America think negatively of sex. This perception is caused by a lack of positive information about sex in schools and online. Religion impacts law and education in America; many schools are taught an abstinence-centered sex education, and some states have banned sex toys.
 
@@ -10,9 +10,9 @@ Religion also affects the way people think about sex. Even if their desires are 
 
 Our complicated relationship with sex is influenced by centuries-old ideologies and rules. By unpacking these theories and misconceptions, we can improve our relationship with sex and in turn improve our health. People need more information about sex so they can make better decisions.
 
-#Research Overview
+##Research Overview
 
-##Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
+###Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
 
 Christianity and other similar religions can cause many people to have negative relationships with sex because of their asexual ideals. Good sex education leads to happier adults.
 
@@ -23,7 +23,7 @@ Christianity and other similar religions can cause many people to have negative 
 
 > People who learn sex without guilt make better decisions, talk and negotiate more openly with their partners and respect the sexual preferences and desires of others. They enjoy their own bodies and are less jealous, possessive and judgmental.
 
-##Ryan, Christopher. “Sex at Dawn”
+###Ryan, Christopher. “Sex at Dawn”
 
 Modern sex is completely different from the way humans used to have sex. Our fear of sex and monogamous tendencies were forced on us by religion and the agricultural revolution.
 
@@ -33,10 +33,10 @@ Modern sex is completely different from the way humans used to have sex. Our fea
 
 > Modern man’s seemingly instinctive impulse to control women’s sexuality is not an intrinsic feature of human nature. It is a response to specific historical socioeconomic conditions—conditions very different from those in which our species evolved. … It is, as we’ll see, an adaptation to the social world that arose with agriculture.
 
-##Research paper: “The Health Benefits of Sexual Expression”
+###Research paper: “The Health Benefits of Sexual Expression”
 
 Sex has many health benefits. We need to change our perception of sex in order to research the benefits of sex more.
 
-##Research paper:  “Religion, Youth and Sexuality”
+###Research paper:  “Religion, Youth and Sexuality”
 
 Many religious young people are conflicted by the choice between obeying their religion and acting on sexual urges.

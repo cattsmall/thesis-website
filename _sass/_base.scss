@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
+    font-family: $body-font;
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
@@ -28,7 +28,11 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1, h2 {
+    font-family: $display-font;
+}
+
+h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -79,8 +83,8 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+h3 {
+    font-weight: bold;
 }
 
 
@@ -97,8 +101,7 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: lighten($brand-color, 5%);
     }
 }
 
@@ -109,11 +112,10 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid fade-out(#000, .9);
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: 0.9;
     letter-spacing: -1px;
-    font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
