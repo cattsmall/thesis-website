@@ -1,3 +1,9 @@
+---
+layout: page
+title: Proposal
+permalink: /
+---
+
 **In order to introduce people to the idea and benefits of sex in a non-controversial way, I am creating an educational game code-named SenseU. In spite of the intimidating subject, people should feel happy when playing this game.**
 
 ![](/assets/img/proposal/mockup1.png)
