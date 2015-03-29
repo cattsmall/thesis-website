@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <h1 class="site-title">
+    <h1 class="site-title{% if page.title == 'Proposal' %} home{% endif %}">
       <a href="{{ site.baseurl }}/">{{ site.title }}</a>
     </h1>
     <p class="site-desc" href="{{ site.baseurl }}/">{{ site.description }}</p>

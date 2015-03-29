@@ -14,7 +14,10 @@
     display: block;
     margin-bottom: 0;
     padding: 25px 0 0;
-    @include animation(wiggle 1s 1);
+    
+    &.home {
+        @include animation(wiggle 1s 1);
+    }
 }
 
 .site-nav {
@@ -128,6 +131,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin: 1em 0 0;
 }
 
 .post-link {
@@ -186,5 +190,13 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+.post:not(.page) {
+    .post-header {
+        padding-bottom: $spacing-unit/4;
+        margin-bottom: $spacing-unit;
+        border-bottom: 1px solid fade-out(#000, .95);
     }
 }

@@ -11,13 +11,9 @@ I added 30 more pins to [my Pinterest board](https://www.pinterest.com/iarecatt/
 
 ###Planned Parenthood of America, [“The Health Benefits of Sexual Expression”](http://www.plannedparenthood.org/files/3413/9611/7801/Benefits_Sex_07_07.pdf), Katharine Dexter McCormick Library, 2007. Web.
 
-####Initial thoughts:
-
 This paper discusses the common perception of sex in contrast to benefits of sexual activity. Despite the negative connotation sex has, it’s actually quite good for humans. When you prepare appropriately for the risks, sex can improve physical and mental wellness.
 
 ###Yip, A. K. T., Keenan, M. and Page, S. Religion, [“Youth and Sexuality: Selected Key Findings from a Multi-faith Exploration”](http://www.nottingham.ac.uk/sociology/pdfs/rys-research-report.pdf). Nottingham: University of Nottingham, 2011. Web.
-
-####Initial thoughts:
 
 This paper reports findings about attitudes toward sexuality in religious young adults. Considering that the target audience for my thesis project is young adults who are/were religious, I believe this paper is quite relevant.
 
@@ -25,13 +21,9 @@ This paper reports findings about attitudes toward sexuality in religious young 
 
 ###Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”. IPC Press, 2012. Book.
 
-####Initial thoughts:
-
 This book discusses the perception of sex when it comes to religious people, as well as how religion affects sexuality. My project is targeting people who have been affected by religion and are interested in learning about sex, so I believe it will be a good reference.
 
 ###Ryan, Christopher. “Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships”. Harper Perennial, 2012. Book.
-
-####Initial thoughts:
 
 This book not only talks about modern sex, but also discusses mainstream science’s view of science over the years. It targets common misunderstandings and explains how our bodies and sexuality work. I believe this book will help debunk stereotypes and false information people might have learned before interacting with my project.
 
