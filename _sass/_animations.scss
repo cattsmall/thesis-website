@@ -1,0 +1,30 @@
+@include keyframes(wiggle) {
+    0% {
+        @include rotate(0);
+    }
+    25% {
+        @include rotate(10);
+    }
+    40% {
+        @include rotate(-10);
+    }
+    50% {
+        @include rotate(5);
+    }
+    60% {
+        @include rotate(-5);
+    }
+    70% {
+        @include rotate(3);
+    }
+    80% {
+        @include rotate(-3);
+    }
+    90% {
+        @include rotate(1);
+    }
+ 
+    100% {
+        @include rotate(0);
+    }
+}

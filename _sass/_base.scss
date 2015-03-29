@@ -95,6 +95,8 @@ h3 {
 a {
     color: $brand-color;
     text-decoration: none;
+    @include transition(all .2s);
+    display:inline-block;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -102,6 +104,11 @@ a {
 
     &:hover {
         color: lighten($brand-color, 5%);
+        @include scale(1.05);
+    }
+
+    &:active, &:hover:active {
+        @include scale(0.9);
     }
 }
 
