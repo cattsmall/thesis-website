@@ -8,11 +8,10 @@
     <p class="site-desc" href="{{ site.baseurl }}/">{{ site.description }}</p>
 
     <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
+      <a class="page-link" href="/story">Story</a>
+      <a class="page-link" href="/process">Process</a>
+      <a class="page-link" href="/technology">Technology</a>
+      <a class="page-link" href="/bio">Biography</a>
     </nav>
 
   </div>
