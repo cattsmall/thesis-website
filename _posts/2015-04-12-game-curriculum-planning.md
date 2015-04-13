@@ -5,7 +5,7 @@ date:   2015-04-12 20:16:00
 categories: process
 ---
 
-This week, I created a survey to help determine the direction of the game. Using my own data as well as resources from Planned Parenthood, I moved forward with a curriculum for the game.
+This week, I created a survey to help determine the direction of the game. Using my own data as well as resources from sites such as Planned Parenthood, I moved forward with designing a curriculum.
 
 ##Survey data
 Over 150 wonderful people responded to my anonymous survey. Thanks to all of you, whoever you are! This survey helped me to contextualize my research and think about where the game should fit into people's lives.
