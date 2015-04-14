@@ -13,24 +13,40 @@ Over 150 wonderful people responded to my anonymous survey. Thanks to all of you
 160 people responded to the survey. Here are some interesting bits of data.
 
 ###Gender
-48.4% of survey respondents were female. 44.7% were male, 5.7% had a custom gender identity, and 1.3% preferred not to say.
+![Gameplay topics diagram](/assets/img/posts/20150413_chart1.png)
+
+**48.8% of survey respondents were female.** 44.4% were male, 5.6% had a custom gender identity, and 1.3% preferred not to say.
 
 ###Religiosity
-53.5% of survey respondents identified as not at all religious. 24.5% indentified as not much, 15.7% identified as somewhat religious, and 6.3% were very religious. I did not ask which religion respondents were a part of, though some people mentioned their religion later in the survey.
+![Gameplay topics diagram](/assets/img/posts/20150413_chart2.png)
 
-I did ask respondents how often they visit their house of worship. The majority of respondents (77.4%) either have never visited a house of worship or haven't gone in a long time. 13.2% went less than once every month. 9.3% went once per month or more.
+**53.1% of survey respondents identified as not at all religious.** 24.4% indentified as not much, 16.3% identified as somewhat religious, and 6.3% were very religious.
+
+![Gameplay topics diagram](/assets/img/posts/20150413_chart3.png)
+
+**Most respondents (76.9%) either have never visited a house of worship or haven't gone in a long time.** 13.1% went less than once every month. 10% went once per month or more.
+
+I did not ask which religion respondents were a part of, though some people mentioned their religion later in the survey.
 
 ###Body knowledge
-59.7% of respondents knew a lot about their body. 36.5% knew some, 3.1% didn't know much, and 0.6% knew nothing.
+![Gameplay topics diagram](/assets/img/posts/20150413_chart4.png)
+
+**60% of respondents knew a lot about their body.** 36.3% knew some, 3.1% didn't know much, and 0.6% knew nothing.
 
 ###Masturbation
-Most respondents (47.2%) masturbated at least once per week, and many others (30.8%) did so at least once per day. 18.2% of respondents rarely masturbated and/or hadn't done so in a long time. 3.8% of respondents never masturbated.
+![Gameplay topics diagram](/assets/img/posts/20150413_chart5.png)
+
+**Most respondents (47.5%) masturbated at least once per week**, and many others (30.6%) did so at least once per day. 18.1% of respondents rarely masturbated and/or hadn't done so in a long time. 3.8% of respondents never masturbated.
 
 ###Sex
-39.6% of respondents had sex at least once per week. Surprisingly (to me, at least), only 1.9% of people had sex once or more per day. 18.2% of respondents had sex at least once per day, 11.3% did so at least once per year, and 15.1% hadn't done so in a long time. 13.8% never had sex.
+![Gameplay topics diagram](/assets/img/posts/20150413_chart6.png)
+
+**39.4% of respondents had sex at least once per week.** Surprisingly (to me, at least), only 1.9% of people had sex once or more per day. 18.8% of respondents had sex at least once per month, 11.3% did so at least once per year, and 15% hadn't done so in a long time. 13.8% never had sex.
 
 ###Summary
-According to data from the survey, I think the goal of this project should be to help people be more comfortable with their bodies, sexuality, and sensuality. Many people are nervous about sex and their bodies due to lack of education, societal pressure, or religious rules. Additionally, I would like to discuss different types of sex as well as sexual and emotional intimacy.
+According to initial data from the survey, I think the goal of this project should be to help people be more comfortable with their bodies, sexuality, and sensuality. Many people are nervous about sex and their bodies due to lack of education, societal pressure, or religious rules. Additionally, I would like to discuss different types of sex as well as sexual and emotional intimacy.
+
+I will be clustering long-form responses from the survey in the near future – expect that in another post!
 
 ##Curriculum
 Sex-positive documents and websites such as the following help me create a general idea of what works from an educational perspective.
