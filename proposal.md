@@ -16,6 +16,11 @@ Religion also affects the way people think about sex. Even if their desires are 
 
 Our complicated relationship with sex is influenced by centuries-old ideologies and rules. By unpacking these theories and misconceptions, we can improve our relationship with sex and in turn improve our health. People need more information about sex so they can make better decisions.
 
+##Project Video
+<div class="video-container">
+	<iframe src="https://www.youtube.com/embed/o3EJRcqHXbY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ##Research Overview
 
 ###Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
