@@ -12,7 +12,7 @@ In order to introduce people to the idea and benefits of sex in a non-controvers
 
 Sexual activity has many benefits. Despite this fact, many people in America think negatively of sex. This perception is caused by a lack of positive information about sex in schools and online. Religion impacts law and education in America; many schools are taught an abstinence-centered sex education, and some states have banned sex toys.
 
-Religion also affects the way people think about sex. Even if their desires are considered normal by society, Christians and other religious people are more likely to self-prohibit when it comes to sex; this feeling is more pronounced in people who are heterosexual and/or genderqueer. Many religious people feel tension between their sexuality and religious beliefs, and some even compartmentalize their lives to feel sexually fulfilled.
+Religion also affects the way people think about sex. Even if their desires are considered normal by society, Christians and other religious people are more likely to self-prohibit when it comes to sex; this feeling is more pronounced in people who are homosexual and/or genderqueer. Many religious people feel tension between their sexuality and religious beliefs, and some even compartmentalize their lives to feel sexually fulfilled.
 
 Our complicated relationship with sex is influenced by centuries-old ideologies and rules. By unpacking these theories and misconceptions, we can improve our relationship with sex and in turn improve our health. People need more information about sex so they can make better decisions.
 
