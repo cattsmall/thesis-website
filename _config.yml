@@ -1,7 +1,7 @@
 # Site settings
 title: "SenseU"
 email: catt@cattsmall.com
-description: "A project about sexuality and religion"
+description: "A game about body confidence, sexuality, and religion"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thesis.cattsmall.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
