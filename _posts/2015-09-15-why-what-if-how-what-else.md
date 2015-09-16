@@ -30,11 +30,14 @@ A conference could go wrong in so many ways, but I'd focus on organizing the eve
 
 In the end, I still want to make a game about the subject, but a web series or conference could be interesting in the future.
 
-##Thesis outline
+##Thesis outline & mind map
 You've seen the curriculum for my game before:
+
 ![Gameplay topics diagram](/assets/img/posts/20150412_gameplay1.png)
 
-I created an outline based on my thesis curriculum and my previous drafts. You can [read the full, expanded version as a PDF](CattSmall_Outline#_2015-09-16).
+I created an outline based on the above and my previous thesis paper drafts. The short version is below. You can [read the full, expanded version as a PDF](CattSmall_Outline#_2015-09-16).
+
+###Short outline
 
 1. Introduction
 2. Religion, society, and sex
@@ -44,14 +47,17 @@ I created an outline based on my thesis curriculum and my previous drafts. You c
 
 Each topic will have contain several subtopics. I'll expand on that next week.
 
+###Mind map
 I also updated my mind map, as suggested by my thesis professor:
 ![Gameplay topics diagram](/assets/img/posts/2015-09-15/diagram_mind_map_v2.png)
 
 ##Advisor meetings
 My calendar now has 3 meetings with Frank Lantz's name on it for the next few months! Hurrah! That was easier than expected.
 
-##RA Survey
-I'm running a survey for RAs since my game is centered around the life of an RA. Synthesized data to come soon!
+##RA Survey & information-gathering
+I'm running [a survey for RAs](http://goo.gl/forms/15MK3HBG67) since my game is centered around the life of an RA. At this time, 31 people have responded to it. I'm hoping to get that to fifty by Friday. Synthesized data to come soon!
+
+I'll also be meeting with a few people to question them more in-depth about their experiences. The plan is to get enough qualitative information to create stories that are plausible. In addition, I've been poking at #RAlife and #RAproblems on Twitter. Funny stuff.
 
 ##Character + game design ideation
 I spent time fleshing out the conflicts characters will have in the game. In addition, I attached it some important pieces of game design. Here are my notes, grabbed straight from Evernote! I'm still working on labeling the characters' conflicts as environmental, interpersonal, or personal.
