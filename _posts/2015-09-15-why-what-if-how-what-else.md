@@ -57,7 +57,7 @@ My calendar now has 3 meetings with Frank Lantz's name on it for the next few mo
 ##RA Survey & information-gathering
 I'm running [a survey for RAs](http://goo.gl/forms/15MK3HBG67) since my game is centered around the life of an RA. At this time, 31 people have responded to it. I'm hoping to get that to fifty by Friday. Synthesized data to come soon!
 
-I'll also be meeting with a few people to question them more in-depth about their experiences. The plan is to get enough qualitative information to create stories that are plausible. In addition, I've been poking at #RAlife and #RAproblems on Twitter. Funny stuff.
+I'll also be meeting with a few people to question them more in-depth about their experiences. The plan is to get enough qualitative information to create stories that are plausible. In addition, I've been poking at [#RAlife](https://twitter.com/search?q=%23RALife&src=typd) and [#RAproblems](https://twitter.com/search?q=%23RAProblems&src=typd) on Twitter. Funny stuff.
 
 ##Character + game design ideation
 I spent time fleshing out the conflicts characters will have in the game. In addition, I attached it some important pieces of game design. Here are my notes, grabbed straight from Evernote! I'm still working on labeling the characters' conflicts as environmental, interpersonal, or personal.
