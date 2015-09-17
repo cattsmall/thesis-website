@@ -30,12 +30,14 @@ A conference could go wrong in so many ways, but I'd focus on organizing the eve
 
 In the end, I still want to make a game about the subject, but a web series or conference could be interesting in the future.
 
-##Thesis outline & mind map
+##Thesis statement, outline, & mind map
+I updated my thesis statement link but forgot to post it here. [Here it is!](/assets/docs/CattSmall_ThesisStatement#_2015-09-09.pdf)
+
 You've seen the curriculum for my game before:
 
 ![Gameplay topics diagram](/assets/img/posts/20150412_gameplay1.png)
 
-I created an outline based on the above and my previous thesis paper drafts. The short version is below. You can [read the full, expanded version as a PDF](CattSmall_Outline#_2015-09-16).
+I created an outline based on the above and my previous thesis paper drafts. The short version is below. You can [read the full, expanded version as a PDF](/assets/docs/CattSmall_Outline#_2015-09-16.pdf).
 
 ###Short outline
 
