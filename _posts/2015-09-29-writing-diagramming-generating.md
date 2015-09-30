@@ -46,7 +46,7 @@ The game's primary and secondary characters are:
 - **Rishika Pradhan**, a straight sophomore. Rishika is from India and majors in Biology. Her family sent her to school in America in order for her to get "the best education". She has previously studied in Britain, Germany, and Australia. Her family prepared enough money to send her to international schools, as they own a manufacturing company. She aims to work in the United States or London once she graduates.
 - **Nolann Rheem**, a straight sophomore. Nolann is a bi-racial, Black-identified student from another small town in Washington. He was the constant focus of racial insults as a child and feels strongly about racial equality. He funnels events from his past into his artistic work. His parents completely fund his education. He is unsure of his future, but he wants to continue to be artistic. Nolann is studying Art Education.
 
-Next, I created a diagram based on the [list of conflicts I mentioned last week](http://thesis.cattsmall.com/process/2015/09/22/a-slow-week-turned-fast.html#narrative-class). This diagram shows character relationships as well as the conflicts they will experience.
+Next, I created a diagram based on the [list of conflicts I mentioned last week](/process/2015/09/22/a-slow-week-turned-fast.html#narrative-class). This diagram shows character relationships as well as the conflicts they will experience.
 
 ![](/assets/img/posts/2015-09-29/character-map-09292015.png)
 
