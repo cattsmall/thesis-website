@@ -185,10 +185,15 @@
 
     h4 {
         font-size: 20px;
+        margin-bottom: 0;
 
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    li + li {
+        margin-top: .5em;
     }
 }
 
