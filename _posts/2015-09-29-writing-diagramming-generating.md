@@ -11,7 +11,7 @@ This week was all about words. I wrote the first draft of my thesis body, genera
 Lauren and I scheduled weekly Slack check-ins on Saturdays to make sure we can catch up every week. This week, she helped me improve my outline. [You can read it as a PDF.](/assets/docs/CattSmall_Outline%23_2015-09-29.pdf)
 
 ##Thesis body
-So far, almost 3,000 words have been written in my thesis. Feel free to have a peek at the current status on [Google Drive](https://docs.google.com/document/d/1-8sv6ksHTsq8KLUZij2Z1yXVq1lIUNIEK2wlBo1FGBM/edit?usp=sharing) or [download it as a PDF](/assets/docs/CattSmall_ThesisBody#_2015-09-29). It's still largely a work in progress. I even continued to modify the outline as I wrote. A lot of sections don't have many words yet, but the content is beginning to feel more solid.
+So far, almost 3,000 words have been written in my thesis. Feel free to have a peek at the current status on [Google Drive](https://docs.google.com/document/d/1-8sv6ksHTsq8KLUZij2Z1yXVq1lIUNIEK2wlBo1FGBM/edit?usp=sharing) or [download it as a PDF](/assets/docs/CattSmall_ThesisBody%23_2015-09-29). It's still largely a work in progress. I even continued to modify the outline as I wrote. A lot of sections don't have many words yet, but the content is beginning to feel more solid.
 
 I need to nail down the actual number of words needed for the paper. Some have said it's between 10,000 and 15,000 while others don't know. I'm currently not sure I heard that number from my professor or read it in a book. Stress is ridiulous, y'all.
 
