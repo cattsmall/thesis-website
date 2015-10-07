@@ -5,22 +5,25 @@ date: 2015-10-07 22:26:27
 categories: process
 ---
 
-I spent this week working on code and building out the systems to support dialogue in the game.
+I spent this week working on code and building out the systems to support dialogue in the game. I also revamped the game's aesthetics.
 
 ##My writing system
 Writing the game will require a lot of work and iteration. Instead of creating JavaScript objects that contain dialogue within the code, I wanted a more versatile way to write and import dialogue.
 
 The game's code now allows me to load JSON files, which are exported from Google Sheets, and import the dialogue for immediate use. Since most of the information is determined within the Google Sheet, I can do as little repetition of code as possible. I have already started [writing dialogue](https://docs.google.com/spreadsheets/d/1ImZBpECHgRWr0kVnbZQuweu7LI0bBXjlRbs1xZoC1BA/edit?usp=sharing) and am testing different ways the player can choose to respond to the game's choices.
 
-A screenshot of dialog:
+##Aesthetics
+I drastically updated the production game's look and feel. The interface feels much more like an app than the old version. Gladly, I was able to utilize the same color scheme, but I removed the gradients and patterns. Since the game centers around texting, the interface needed to resemble a modern mobile application.
 
-![](/assets/img/posts/2015-10-07/game-home.png)
+The old version of the home screen:
 
-A screenshot of a quiz question:
+![](/assets/img/posts/20150420_home-page.png)
 
-![](/assets/img/posts/2015-10-07/game-quiz.png)
+The new interface design:
 
-With a few more tweaks and a bit more code, the only thing I'll need to focus on is building out the game.
+![](/assets/img/posts/2015-10-07/game-screens.png)
+
+With a few more tweaks to the interface and a bit more code, the only thing I'll need to focus on is writing as much dialogue as possible.
 
 ##Constructive criticism
 My narrative design class has been very helpful. I received very useful feedback regarding my game's characters and conflicts. To flesh out my characters even further, I am in the process of writing in-depth details about all primary & secondary characters in the game.
