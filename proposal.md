@@ -4,7 +4,7 @@ title: Proposal
 permalink: /
 ---
 
-In order to introduce people to the idea and benefits of sex in a non-controversial way, I am creating an educational game code-named SenseU. In spite of the intimidating subject, people should feel happy when playing this game.
+SenseU is a sex education game that aims to introduce people to the idea of sex in a positive, non-controversial way and increase body confidence.
 
 ![](/assets/img/proposal/mockup1.png)
 
