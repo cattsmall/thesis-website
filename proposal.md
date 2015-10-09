@@ -4,7 +4,7 @@ title: Proposal
 permalink: /
 ---
 
-SenseU is a sex education game that aims to introduce people to the idea of sex in a positive, non-controversial way and increase body confidence.
+SenseU is a decision-based narrative game that teaches young adults about sex and positive body image.
 
 ![](/assets/img/proposal/mockup1.png)
 
