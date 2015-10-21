@@ -96,6 +96,7 @@ a {
     color: $brand-color;
     text-decoration: none;
     @include transition(color .2s);
+    font-weight: bold;
 
     &:visited {
         color: darken($brand-color, 15%);
