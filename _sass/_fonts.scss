@@ -1,40 +1,4 @@
-@font-face {
-    font-family: 'vanilla';
-    src: url('/assets/fonts/vanilla/Vanilla-webfont.eot');
-    src: url('/assets/fonts/vanilla/Vanilla-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/vanilla/Vanilla-webfont.woff') format('woff'),
-         url('/assets/fonts/vanilla/Vanilla-webfont.ttf') format('truetype'),
-         url('/assets/fonts/vanilla/Vanilla-webfont.svg#vanillaregular') format('svg');
-}
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,300,300italic,400italic,500,500italic,700italic,700);
 
-@font-face {
-    font-family: 'print';
-    src: url('/assets/fonts/print/PrintClearly-webfont.eot');
-    src: url('/assets/fonts/print/PrintClearly-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/print/PrintClearly-webfont.woff') format('woff'),
-         url('/assets/fonts/print/PrintClearly-webfont.ttf') format('truetype'),
-         url('/assets/fonts/print/PrintClearly-webfont.svg#print_clearlyregular') format('svg');
-}
-
-@font-face {
-    font-family: 'print';
-    src: url('/assets/fonts/print/PrintBold-webfont.eot');
-    src: url('/assets/fonts/print/PrintBold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/print/PrintBold-webfont.woff') format('woff'),
-         url('/assets/fonts/print/PrintBold-webfont.ttf') format('truetype'),
-         url('/assets/fonts/print/PrintBold-webfont.svg#print_boldregular') format('svg');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'print';
-    src: url('/assets/fonts/print/PrintDashed-webfont.eot');
-    src: url('/assets/fonts/print/PrintDashed-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/print/PrintDashed-webfont.woff') format('woff'),
-         url('/assets/fonts/print/PrintDashed-webfont.ttf') format('truetype'),
-         url('/assets/fonts/print/PrintDashed-webfont.svg#print_dashedregular') format('svg');
-    font-style: italic;
-}
-
-$display-font: "vanilla", sans-serif;
-$body-font: 'print', 'Trebuchet MS', sans-serif;
+$display-font: "Fira Sans", Helvetica, Arial, sans-serif;
+$body-font: 'Fira Sans', Helvetica, Arial, sans-serif;
