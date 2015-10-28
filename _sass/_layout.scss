@@ -34,7 +34,6 @@
         line-height: $base-line-height;
         display:inline-block;
         padding:5px 15px;
-        border-radius: 5px;
         @include transition(all .2s);
         font-weight: 300;
 
@@ -54,7 +53,7 @@
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 10px;
         }
 
         @include media-query($on-palm) {
