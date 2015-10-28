@@ -6,7 +6,7 @@ permalink: /
 
 SenseU is a decision-based narrative game that teaches young adults about sex and positive body image.
 
-![](/assets/img/proposal/mockup1.png)
+![](/assets/img/proposal/mockup2.png)
 
 ##Statement
 
