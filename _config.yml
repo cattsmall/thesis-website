@@ -3,7 +3,7 @@ title: "SenseU"
 email: catt@cattsmall.com
 description: "A decision-based narrative game that teaches young adults about sex and positive body image"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://thesis.cattsmall.com" # the base hostname & protocol for your site
+url: "http://senseugame.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
