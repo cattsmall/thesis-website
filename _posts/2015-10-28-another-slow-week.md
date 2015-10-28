@@ -18,10 +18,7 @@ I mapped out the story progression from a user flow standpoint:
 
 ![](/assets/img/posts/2015-10-28/user-flow-progression_small.png)
 
-[View a larger version](/assets/img/posts/2015-10-28/user-flow-progression.png) to see the more in-depth version.
-
-##RA research
-My UX research partner shared her RA orientation book with me. You can view photos of it on [Google Drive](https://drive.google.com/folderview?id=0B_3R82cXHe5BeTQ5YVRsZGZrYm8&usp=sharing). I plan to review these documents and glean inspiration for the narrative.
+[View a larger version](/assets/img/posts/2015-10-28/user-flow-progression.png) to see the more in-depth details.
 
 ##Accountability partner
 Lauren helped me troubleshoot my game, which now works on her phone! She also gave me helpful feedback about the amount of intro dialogue in the game.
