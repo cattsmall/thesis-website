@@ -13,7 +13,7 @@ Based on the feedback people gave me last week, I managed to cut down on the int
 ###Characters
 I wrote more information about the game's characters. This week, I focused on Jade. Next, I'm focusing on Gaiya. See [the Evernote document](https://www.evernote.com/l/AARD89YHqK1HA5WJ36ZfY4cNwBsrbkakeQg) to read my progress so far.
 
-###Living arrangements
+###Story progression
 I mapped out the story progression from a user flow standpoint:
 
 ![](/assets/img/posts/2015-10-28/user-flow-progression_small.png)

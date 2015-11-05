@@ -15,12 +15,12 @@ If you review older posts, you might realize that I switched the conversation fr
 ###Characters
 I wrote more about Gaiya this week. You can look at [the Evernote document](https://www.evernote.com/l/AARD89YHqK1HA5WJ36ZfY4cNwBsrbkakeQg) to read my progress so far.
 
-###Game flow
-Here is a diagram listing all the interfaces in the game:
+###Narrative interaction design
+Here is a diagram showing the interaction design for transitioning from narrative story to choices:
 
-![](/assets/img/posts/2015-11-03/game-progress_small.png)
+![](/assets/img/posts/2015-11-03/image-to-text.png)
 
-[View a larger version](/assets/img/posts/2015-11-03/game-progress.png) to see the more in-depth details.
+[View a larger version](/assets/img/posts/2015-11-03/image-to-text.png) to see the more in-depth details.
 
 ##Accountability partner
 I advised Lauren about her project this week. Hooray for Hack the Flow!
