@@ -24,7 +24,7 @@
   animation: #{$str};
 }
 
-@mixin transition($transition) {
+@mixin transition($transition...) {
      -moz-transition: $transition;
       -ms-transition: $transition;
   -webkit-transition: $transition;
