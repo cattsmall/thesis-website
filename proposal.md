@@ -1,6 +1,5 @@
 ---
 layout: page-no-title
-title: Proposal
 permalink: /
 ---
 
