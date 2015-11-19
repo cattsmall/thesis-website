@@ -4,6 +4,16 @@ title: Research overview
 permalink: /research/
 ---
 
+###Walcott, Chenneville, and Tarquini. "Relationship Between Recall Of Sex Education And College Students’ Sexual Attitudes And Behavior"
+
+Abstinence-only education may delay young adults from having sex, but it is no more effective than comprehensive sex education. In addition, it omits important health and safety information that they will require later in life.
+
+> Most adults surveyed believe that sex education programs should promote abstinence as the best behavioral goal for adolescents; however, more heated debate surrounds whether this should be the only message or one element of a more comprehensive presentation of safer sex choices
+
+> Based on systematic reviews, including a large federally funded study of four abstinence programs, abstinence-only programs prove no more effective in getting students to abstain from sex compared with comprehensive or general health promotion programs
+
+> Abstinence-only education appears to help delay the onset of sexual activity for younger adolescents who have not yet initiated sex; however, it may not provide the knowledge and skills necessary to protect youth once they become sexually active.
+
 ###Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
 
 Christianity and other similar religions can cause many people to have negative relationships with sex because of their asexual ideals. Good sex education leads to happier adults.

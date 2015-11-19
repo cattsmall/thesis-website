@@ -7,11 +7,11 @@ permalink: /
 
 ![](/assets/img/proposal/mockup2.png)
 
-##Statement
+##About the game
 
-SenseU is a game that aims to help young Americans between the ages of 14 and 25 to become more confident in their bodies by understanding how sex works. Despite the fact that sexual activity has many benefits (including lower risk of mortality), many people in America think of sex as a negative activity. This perception is caused by a lack of positive information about sex in schools and on the internet. Religion, specifically Christianity, is a culprit to blame for America's poor relationship with sex. Many schools are taught an abstinence-centered education, and some states have banned adult toys.
+SenseU aims to help young Americans between the ages of 14 and 25 to become more confident in their bodies by teaching them how sex works. Despite the fact that sexual activity has many benefits, many people in America think of sex as a negative activity. This game aims to reverse that perception by enabling users to communicate with digital characters who have questions about sex.
 
-Religion heavily affects the way people think about sex and their bodies. About 70% of young people interviewed in a study by the University of Nottingham said they referred to religion every day to make decisions, including about sex. Many religious texts have a negative or nonexistent view of sex. Religious people often feel tension between sex and their beliefs, and some even compartmentalize their lives to feel sexually fulfilled. Even if their desires are considered normal by society, religious people are more likely to self-prohibit when it comes to sex. This feeling is more pronounced in people who are not heterosexual or a part of the gender binary.
+In SenseU, players assume the role of a college resident advisor. By guiding and advising in-game classmates via a text messaging interface, players will learn about sex in a consequence-free space. The game's developer, Catt Small, aims to eventually embed SenseU within the American sex education curriculum. At launch, the game will be available on Google Play and the App Store for $1.99.  The price will scale upward as more content is released.
 
 America's complicated relationship with sex is influenced by centuries-old ideologies and rules. By unpacking these theories and misconceptions, players can improve the relationship with their own bodies. People need information about sex so they can become more confident and make better decisions.
 
