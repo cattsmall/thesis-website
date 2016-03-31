@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biography
+title: SenseU Team
 permalink: /bio/
 ---
 
@@ -12,6 +12,9 @@ Catt makes video games with the intention of pushing the medium forward and enco
 In her spare time, Catt teaches game development with The Code Liberation Foundation and draws comics. She is currently completing an MS in Integrated Digital Media at the NYU Polytechnic School of Engineering.
 
 ## Other contributors
+
 ### Laura Donohue (User research)
+
 ### Patrick Ellis (Music & SFC)
+
 ### Del Northern (Additional art)
