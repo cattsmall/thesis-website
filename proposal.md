@@ -11,7 +11,7 @@ permalink: /
 
 SenseU aims to help young Americans between the ages of 14 and 25 to become more confident in their bodies by teaching them how sex works. Despite the fact that sexual activity has many benefits, many people in America think of sex as a negative activity. This game aims to reverse that perception by enabling users to communicate with digital characters who have questions about sex.
 
-In SenseU, players assume the role of a college resident advisor. By guiding and advising in-game classmates via a text messaging interface, players will learn about sex in a consequence-free space. The game's developer, Catt Small, aims to eventually embed SenseU within the American sex education curriculum. The game will be available on Google Play and the App Store at launch.
+In SenseU, players assume the role of a college resident advisor. By guiding and advising in-game classmates via a text messaging interface, players will learn about sex in a consequence-free space. The game will be available on Google Play and the App Store at launch.
 
 America's complicated relationship with sex is influenced by centuries-old ideologies and rules. By unpacking these theories and misconceptions, players can improve the relationship with their own bodies. People need information about sex so they can become more confident and make better decisions.
 
