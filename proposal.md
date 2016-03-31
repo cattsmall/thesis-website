@@ -17,9 +17,14 @@ America's complicated relationship with sex is influenced by centuries-old ideol
 
 [Read about the research](/research)
 
+[Sign up for email updates to hear more](http://eepurl.com/bWcnRP)
+
 ##Project Video
 This video was created in early 2015. The visual representation of the game has changed, but the focus and idea hasn't!
 
 <div class="video-container">
 	<iframe src="https://www.youtube.com/embed/o3EJRcqHXbY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+##Development News
+Want to receive news about SenseU in your inbox? [Sign up for email updates.](http://eepurl.com/bWcnRP) You can also read the [SenseU Process blog](/process).
