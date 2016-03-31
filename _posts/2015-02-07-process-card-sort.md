@@ -6,7 +6,7 @@ categories: process
 ---
 In the first assignment, we were instructed to find 15 projects that inspire us. I found projects from the art world, TV, the web, and video games.
 
-##The projects that inspire me:
+## The projects that inspire me:
 
 - Tumblr (website, app)
 - Dots (game)
@@ -24,20 +24,20 @@ In the first assignment, we were instructed to find 15 projects that inspire us.
 - Takashi Murakami (show)
 - MAGFest (event)
 
-##Descriptors:
+## Descriptors:
 ![](/assets/img/process-cards/cards-2a.jpg)
 ![](/assets/img/process-cards/cards-2b.jpg)
 ![](/assets/img/process-cards/cards-2c.jpg)
 
-##Enablers:
+## Enablers:
 ![](/assets/img/process-cards/cards-3a.jpg)
 ![](/assets/img/process-cards/cards-3b.jpg)
 ![](/assets/img/process-cards/cards-3c.jpg)
 
-###Mixing all the cards up!
+## #Mixing all the cards up!
 ![](/assets/img/process-cards/cards-4.jpg)
 
-##Grouping the cards:
+## Grouping the cards:
 
 ![](/assets/img/process-cards/cards-5a.jpg)
 ![](/assets/img/process-cards/cards-5b.jpg)
@@ -46,7 +46,7 @@ In the first assignment, we were instructed to find 15 projects that inspire us.
 ![](/assets/img/process-cards/cards-5e.jpg)
 ![](/assets/img/process-cards/cards-5f.jpg)
 
-##Final ideas, in ranked order:
+## Final ideas, in ranked order:
 
 - Exploration of sexual identity through puzzles. Innocent, yet sexual. Could cover religion and slut-shaming as well. Abstract, creepy-cute design. Would use a touchscreen.
 - Celebrating my ridiculous family through an interactive game. Exploring photography and learning about how my family got so big and why we’re so messed-up. Honest and personal.

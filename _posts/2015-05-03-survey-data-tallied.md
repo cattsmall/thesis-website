@@ -7,7 +7,7 @@ categories: process
 
 I spent some time tallying longform data from the survey to get an idea of common sentiments people expressed. The following is an ordered list of sentiments gathered from 100 survey responses.
 
-###Common sentiments
+### Common sentiments
 1. I enjoy sex.
 2. I feel ok/good about my body.
 3. I don't like the way my body looks.

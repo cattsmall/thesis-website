@@ -4,14 +4,14 @@ title:  "Milestone definition and prototyping"
 date:   2015-09-07 20:31:00
 categories: process
 ---
-I spent time this week defining milestones and designing a mechanic for SenseU. 
+I spent time this week defining milestones and designing a mechanic for SenseU.
 
-##Milestones
+## Milestones
 I broke the game design and development down into parts and steps, then prioritized them.
 
 ![Milestone screenshot](/assets/img/posts/2015-09-07/milestone_screenshot_09072015.png)
 
-##Game design
+## Game design
 I previously wanted to have the game exist in another world and for players to be guided by a mysterious being. However, instead of continuing to focus on the story without having defined a mechanic for the game, I decided to step back and figure out the game's functionality instead.
 
 I used a set of ideation worksheets I designed for a game development workshop to write down as many ideas as possible. After writing down 8 ideas, I expanded upon one of them
@@ -32,7 +32,7 @@ Next, I created a basic interactive prototype using [InVision](https://projects.
 
 My next step is to build the mechanic into the game. Wish me luck!
 
-##Diagrams
+## Diagrams
 I created a mind map of my paper using Omnigraffle.
 
 ![Mind Map](/assets/img/posts/2015-09-07/diagram_mind_map.png)

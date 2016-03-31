@@ -7,21 +7,21 @@ categories: process
 
 This week, I answered some questions, outlined my thesis, met with my advisor, and designed conflicts based on my game's curriculum.
 
-##Why, What if, and How
+## Why, What if, and How
 I listened to an episode of Unmistakeable Creative Podcast called "Asking A More Beautiful Question With Warren Berger". Afterward, I answered some important questions. My answers were all quite blunt, to be honest. I didn't find myself inspired to change the project, but the exercise was still helpful.
 
-###Why... is your focus a problem?
+### Why... is your focus a problem?
 It’s a problem because people are being poorly equipped for adulthood.
 
-###Why... are you solving the challenge this way?
+### Why... are you solving the challenge this way?
 I’m solving it this way because games are a fun way to educate people.
 
-###What if... you tried solving it in other ways?
+### What if... you tried solving it in other ways?
 Many other ways already exist. There are sex-positive, educational podcasts. I know of several blogs and webcomics that cover the topic well. Sex-positive events (a la Slut Walk) exist across the country. However, good games about sex are still quite rare.
 
 The only other things I could think of are maybe a web series or conference.
 
-###How... do you make it real?
+### How... do you make it real?
 Get help from others, continue researching and working to build the game.
 
 If I went with a web series, I'd probably make a little animated series using Adobe Premiere.
@@ -30,7 +30,7 @@ A conference could go wrong in so many ways, but I'd focus on organizing the eve
 
 In the end, I still want to make a game about the subject, but a web series or conference could be interesting in the future.
 
-##Thesis statement, outline, & mind map
+## Thesis statement, outline, & mind map
 I updated my thesis statement link but forgot to post it here. [Here it is!](/assets/docs/CattSmall_ThesisStatement%23_2015-09-09.pdf)
 
 You've seen the curriculum for my game before:
@@ -39,7 +39,7 @@ You've seen the curriculum for my game before:
 
 I created an outline based on the above and my previous thesis paper drafts. The short version is below. You can [read the full, expanded version as a PDF](/assets/docs/CattSmall_Outline%23_2015-09-16.pdf).
 
-###Short outline
+### Short outline
 
 1. Introduction
 2. Religion, society, and sex
@@ -49,29 +49,29 @@ I created an outline based on the above and my previous thesis paper drafts. The
 
 Each topic will have contain several subtopics. I'll expand on that next week.
 
-###Mind map
+### Mind map
 I also updated my mind map, as suggested by my thesis professor:
 ![Gameplay topics diagram](/assets/img/posts/2015-09-15/diagram_mind_map_v2.png)
 
-##Advisor meetings
+## Advisor meetings
 My calendar now has 3 meetings with Frank Lantz's name on it for the next few months! Hurrah! That was easier than expected.
 
-##RA Survey & information-gathering
+## RA Survey & information-gathering
 I'm running [a survey for RAs](http://goo.gl/forms/15MK3HBG67) since my game is centered around the life of an RA. At this time, 31 people have responded to it. I'm hoping to get that to fifty by Friday. Synthesized data to come soon!
 
 I'll also be meeting with a few people to question them more in-depth about their experiences. The plan is to get enough qualitative information to create stories that are plausible. In addition, I've been poking at [#RAlife](https://twitter.com/search?q=%23RALife&src=typd) and [#RAproblems](https://twitter.com/search?q=%23RAProblems&src=typd) on Twitter. Funny stuff.
 
-##Character + game design ideation
+## Character + game design ideation
 I spent time fleshing out the conflicts characters will have in the game. In addition, I attached it some important pieces of game design. Here are my notes, grabbed straight from Evernote! I'm still working on labeling the characters' conflicts as environmental, interpersonal, or personal.
 
-###Class 1: Health & Human Development (benefits & safe sex)
+### Class 1: Health & Human Development (benefits & safe sex)
 3 characters, 26 cards with 1 symbol
 
 - sexual frustration (personal)
 - hookups (interpersonal)
 - unsure of whether or not to have sex (interpersonal)
 
-###Class 2: Neuropsychology of Behavior (mind)
+### Class 2: Neuropsychology of Behavior (mind)
 4 characters, 26 cards with 2 symbols
 
 - low self-esteem and body image (personal)
@@ -79,7 +79,7 @@ I spent time fleshing out the conflicts characters will have in the game. In add
 - gender identity (personal)
 - sexuality (personal)
 
-###Class 3: Human Genetics & Biology (body & safe sex)
+### Class 3: Human Genetics & Biology (body & safe sex)
 5 characters, 52 cards with 2 symbols
 
 - mouth
@@ -88,7 +88,7 @@ I spent time fleshing out the conflicts characters will have in the game. In add
 - genitals
 - hygiene
 
-###Class 4:Writing Seminar: Love and Trouble (kinds)
+### Class 4:Writing Seminar: Love and Trouble (kinds)
 6 characters, 52 cards with 3 symbols
 
 - masturbation - finding a place (environmental)
@@ -98,7 +98,7 @@ I spent time fleshing out the conflicts characters will have in the game. In add
 - vaginal sex
 - other kinds of sex
 
-###Class 5: Language and Law (consent)
+### Class 5: Language and Law (consent)
 7 characters, 52 cards with 3 symbols
 
 - asking for sex (interpersonal)
@@ -109,7 +109,7 @@ I spent time fleshing out the conflicts characters will have in the game. In add
 - sexual assault (interpersonal)
 - nonverbal consent (interpersonal)
 
-###Class 6: Anthropology (society) - taken from here
+### Class 6: Anthropology (society) - taken from here
 7 characters, 52 cards with 4 symbols
 
 - respecting someone else’s sexual values

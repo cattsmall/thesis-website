@@ -7,12 +7,12 @@ categories: process
 
 After reviewing more of the survey data, I built a working prototype of the game over the past week.
 
-##Mockup
+## Mockup
 Before jumping into code, I created an updated mockup of the game based on the images in [my Pinterest board](https://www.pinterest.com/iarecatt/my-thesis-project/). Here's the home screen.
 ![Home page mockup](/assets/img/posts/20150420_home-page.png)
 
 
-##Prototype
+## Prototype
 After creating a mockup, I did some research into popular mobile screen sizes and decided on two of the most popular aspect ratios, 16:9 and 4:3. Next, I created a new GitHub repo and got to work using Phaser.
 
 Here's an animation showing the game's interactions so far. I'm proud of how positive (and hopefully welcoming) the game looks.

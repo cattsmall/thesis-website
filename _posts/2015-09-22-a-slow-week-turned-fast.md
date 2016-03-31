@@ -7,21 +7,21 @@ categories: process
 
 This was initially a slow week for me, but it picked up quickly. I spent time in Toronto for a conference and therefore wasn't able to focus much on my thesis early in the week. However, things ramped up later.
 
-##Answering important questions
+## Answering important questions
 Part of my time was spent answering questions that were previously unanswered:
 
 - **Can you pick your gender in the game?** I'd rather the game be gender-neutral regarding the player. In an ideal world, the player's gender wouldn't matter.
 - **Will the personality quiz stay in the game?** Yes, I'd still like the player to start the game with a personality quiz. This quiz will be part of their RA orientation.
 
-##Detailed written outline
+## Detailed written outline
 I wrote a fairly detailed outline last week, so I spent this week working on refining it. It's a bit clearer than before, I hope! [You can read it as a PDF.](/assets/docs/CattSmall_Outline%23_2015-09-22.pdf)
 
-##Prototype work
+## Prototype work
 I updated the prototype to include a cold start, user info, and settings area. The cold start allows people to take the quiz. The user info area is where people can see their current personality type and retake the quiz at will. Click around the prototype below to see the interactions.
 
 <iframe width="424" height="916" src="//invis.io/FD49G6XM6" frameborder="0" allowfullscreen></iframe>
 
-##Thesis advisor meeting
+## Thesis advisor meeting
 I met with my thesis advisor, Frank Lantz. He gave me a lot of helpful feedback. Based on his feedback, I've decided to focus on the narrative over the game mechanics for now.
 
 The game has a chance to positively affect a lot of people, which means it needs to be very accessible. It should feel enough like other games to attract young people while also feeling somewhat new. Frank's suggestion was 80% familiar, 20% innovative. This also helps to reduce my workload, as I'm not doing everything from scratch.
@@ -37,10 +37,10 @@ For our next meeting, I need to have a:
 
 I'm working on all of these as soon as possible.
 
-##Narrative class
+## Narrative class
 I also attended my bi-weekly narrative design independent study class. During this session, we discussed character conflict. Here are the conflicts I listed for my character and students at the school:
 
-###Environmental
+### Environmental
 
 - Living in cramped spaces with people you don’t know
 - Not knowing things required to help people with their problems
@@ -54,7 +54,7 @@ I also attended my bi-weekly narrative design independent study class. During th
 - Being forced to learn things you don't like or care about in required classes
 - Inter-major superiority/inferiority
 
-###Interpersonal
+### Interpersonal
 
 - Being an authority figure over your peers
 - Feeling alone
@@ -74,7 +74,7 @@ I also attended my bi-weekly narrative design independent study class. During th
 - Non-consentual touching
 - Bullying
 
-###Personal
+### Personal
 
 - Social anxiety
 - Unsure of life direction
@@ -87,12 +87,12 @@ I also attended my bi-weekly narrative design independent study class. During th
 
 For next class, I'll have to flesh out details about the school itself, as well as the characters who will inhabit the school and interact with the player. I have a lot of questions to answer!
 
-##Research
+## Research
 [The RA questionnaire](http://goo.gl/forms/15MK3HBG67) has been going well. It has 34 responses so far. I want to get 50 responses by Friday night so I can analyze the data on Saturday.
 
 In addition to the questionnaire, I also interviewed someone in person about their experience. Their personal anecdotes were very helpful for understanding what life is like for RAs.
 
-###Interesting points from the interview###
+### Interesting points from the interview###
 
 - Everyone had to live on campus for at least 3 years at their school.
 - RA deeds were: walking duty, desk duty, community-building.

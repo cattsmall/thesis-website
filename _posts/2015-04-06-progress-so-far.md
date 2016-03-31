@@ -6,10 +6,10 @@ categories: process
 ---
 I'm currently designing the logic behind the game and figuring out how people would play it.
 
-##General user flow
+## General user flow
 ![User flow diagram](/assets/img/posts/20150406_diagram1.png)
 
-##Gameplay process
+## Gameplay process
 
 1) Quiz to learn about who you are as a player, generate character
 

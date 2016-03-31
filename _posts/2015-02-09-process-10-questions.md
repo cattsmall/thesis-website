@@ -6,7 +6,7 @@ categories: process
 ---
 I came up with an initial description of my project in addition to 10 questions I would like to answer through/about my project.
 
-##10 questions related to my idea
+## 10 questions related to my idea
 - How can sex and religion be discussed without making people feel defensive?
 - How do people who were brought up in religious families feel about their upbringing?
 - How have others found their sexuality after being brought up in a religious setting?
@@ -18,6 +18,6 @@ I came up with an initial description of my project in addition to 10 questions 
 - Is there a way to be spiritual and sexual?
 - What are ways people can discover their sexuality without feeling awkward?
 
-##Description of idea
+## Description of idea
 
 I am interested in this idea because the clash between sex and religion makes me curious. As a person who grew up quite religious and afraid of my sexuality, I have always wanted to express my feelings about the subject. I hope my project will help others who have had the same experience and possibly encourage parents to provide their children with a more positive sex education. My idea might be best as a game on a website that could eventually be used in schools. It might be best as an educational game or an interactive choose-your-own-adventure project.
