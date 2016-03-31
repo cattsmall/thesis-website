@@ -15,6 +15,6 @@ In her spare time, Catt teaches game development with The Code Liberation Founda
 
 ### Laura Donohue (User research)
 
-### Patrick Ellis (Music & SFC)
+### Patrick Ellis (Music & SFX)
 
 ### Del Northern (Additional art)
