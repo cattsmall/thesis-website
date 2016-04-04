@@ -4,7 +4,7 @@ title: Research overview
 permalink: /research/
 ---
 
-###Walcott, Chenneville, and Tarquini. "Relationship Between Recall Of Sex Education And College Students’ Sexual Attitudes And Behavior"
+### Walcott, Chenneville, and Tarquini. "Relationship Between Recall Of Sex Education And College Students’ Sexual Attitudes And Behavior"
 
 Abstinence-only education may delay young adults from having sex, but it is no more effective than comprehensive sex education. In addition, it omits important health and safety information that they will require later in life.
 
@@ -14,7 +14,7 @@ Abstinence-only education may delay young adults from having sex, but it is no m
 
 > Abstinence-only education appears to help delay the onset of sexual activity for younger adolescents who have not yet initiated sex; however, it may not provide the knowledge and skills necessary to protect youth once they become sexually active.
 
-###Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
+### Ray, Darrel. “Sex and God: How Religion Distorts Sexuality”
 
 Christianity and other similar religions can cause many people to have negative relationships with sex because of their asexual ideals. Good sex education leads to happier adults.
 
@@ -25,7 +25,7 @@ Christianity and other similar religions can cause many people to have negative 
 
 > People who learn sex without guilt make better decisions, talk and negotiate more openly with their partners and respect the sexual preferences and desires of others. They enjoy their own bodies and are less jealous, possessive and judgmental.
 
-###Ryan, Christopher. “Sex at Dawn”
+### Ryan, Christopher. “Sex at Dawn”
 
 Modern sex is completely different from the way humans used to have sex. Our fear of sex and monogamous tendencies were forced on us by religion and the agricultural revolution.
 
@@ -35,10 +35,10 @@ Modern sex is completely different from the way humans used to have sex. Our fea
 
 > Modern man’s seemingly instinctive impulse to control women’s sexuality is not an intrinsic feature of human nature. It is a response to specific historical socioeconomic conditions—conditions very different from those in which our species evolved. … It is, as we’ll see, an adaptation to the social world that arose with agriculture.
 
-###Research paper: “The Health Benefits of Sexual Expression”
+### Research paper: “The Health Benefits of Sexual Expression”
 
 Sex has many health benefits. We need to change our perception of sex in order to research the benefits of sex more.
 
-###Research paper:  “Religion, Youth and Sexuality”
+### Research paper:  “Religion, Youth and Sexuality”
 
 Many religious young people are conflicted by the choice between obeying their religion and acting on sexual urges.
