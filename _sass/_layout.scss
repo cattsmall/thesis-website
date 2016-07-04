@@ -120,10 +120,6 @@
     margin-left: 0;
     list-style: none;
 
-    li {
-        margin-top: 2em;
-    }
-
     .post-meta {
         margin-top: 0;
         margin-bottom: .5em;
@@ -133,12 +129,9 @@
 
     &.post-list-all {
         li.post {
-            padding:1em;
             border:1px $grey-color-light solid;
-
-            + li.post {
-                margin-top: 2em;
-            }
+            margin-top: 2em;
+            padding:1em;
 
             h2 {
                 font-size: 26px;
