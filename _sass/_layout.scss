@@ -14,7 +14,7 @@
     display: block;
     margin-bottom: 0;
     padding: 25px 0 0;
-    
+
     &.home {
         @include animation(wiggle 1s 1);
     }
@@ -129,6 +129,25 @@
         margin-bottom: .5em;
         padding-bottom: .25em;
         border-bottom: 1px solid fade-out(#000, .95);
+    }
+
+    &.post-list-all {
+        li.post {
+            padding:1em;
+            border:1px $grey-color-light solid;
+
+            + li.post {
+                margin-top: 2em;
+            }
+
+            h2 {
+                font-size: 26px;
+            }
+
+            h3 {
+                font-size: 20px;
+            }
+        }
     }
 
 }

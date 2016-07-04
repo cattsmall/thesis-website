@@ -4,14 +4,14 @@ title: Development Blog
 ---
 <p>Learn more about the process of designing SenseU.</p>
 
-<ul class="post-list">
+<ul class="post-list post-list-all">
 	{% for post in site.categories["process"] %}
-	  <li>
+	  <li class="post">
 	    <a href="{{ post.url }}">
-	      <h3>{{ post.title }}</h3>
+	      <h1>{{ post.title }}</h1>
 	    </a>
 	    <p class="post-meta">Posted on {{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-		{{post.excerpt}}
+      {{ post.content }}
 	  </li>
 
 	{% endfor %}
